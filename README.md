@@ -1,7 +1,7 @@
 # Lolcat-rs
 The Shitty and the rust version of Lol cat
 
-![The Truth](screenshot/screenshot.png)
+![The Truth](screenshot/screenshot.xcf)
 
 
 
